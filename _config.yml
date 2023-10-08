@@ -1,9 +1,9 @@
 # Site settings
-title: 💜 Privacy Stuff
+title: Stuff
 # Privacy - The simple guide 
-tag_text: 💜 Privacy Stuff
+tag_text: Stuff
 description: A responsive single-page website
-url: "https://jcabeza.github.io/privacy"
+url: "https://jcabeza.github.io/dev1"
 baseurl: "/"
 
 font-awesome-include: true # make this false if you don't need font-awesome
